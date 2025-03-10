@@ -56,7 +56,7 @@
 		B72032432D7EEE4F003337B9 /* ConflictExample */ = {
 			isa = PBXGroup;
 			children = (
-				B720324E2D7EEFA7003337B9 /* Jack */,
+				B72032502D7EF1D7003337B9 /* Hue */,
 				B720323A2D7EEE4F003337B9 /* AppDelegate.swift */,
 				B720323B2D7EEE4F003337B9 /* Assets.xcassets */,
 				B720323C2D7EEE4F003337B9 /* Info.plist */,
@@ -67,12 +67,12 @@
 			path = ConflictExample;
 			sourceTree = "<group>";
 		};
-		B720324E2D7EEFA7003337B9 /* Jack */ = {
+		B72032502D7EF1D7003337B9 /* Hue */ = {
 			isa = PBXGroup;
 			children = (
 				B720324B2D7EEEC5003337B9 /* ViewController.swift */,
 			);
-			path = Jack;
+			path = Hue;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
