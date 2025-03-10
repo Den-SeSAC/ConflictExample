@@ -56,15 +56,23 @@
 		B72032432D7EEE4F003337B9 /* ConflictExample */ = {
 			isa = PBXGroup;
 			children = (
+				B720324E2D7EEFA7003337B9 /* Jack */,
 				B720323A2D7EEE4F003337B9 /* AppDelegate.swift */,
 				B720323B2D7EEE4F003337B9 /* Assets.xcassets */,
 				B720323C2D7EEE4F003337B9 /* Info.plist */,
 				B720323E2D7EEE4F003337B9 /* LaunchScreen.storyboard */,
 				B72032402D7EEE4F003337B9 /* Main.storyboard */,
 				B72032412D7EEE4F003337B9 /* SceneDelegate.swift */,
-				B720324B2D7EEEC5003337B9 /* ViewController.swift */,
 			);
 			path = ConflictExample;
+			sourceTree = "<group>";
+		};
+		B720324E2D7EEFA7003337B9 /* Jack */ = {
+			isa = PBXGroup;
+			children = (
+				B720324B2D7EEEC5003337B9 /* ViewController.swift */,
+			);
+			path = Jack;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
