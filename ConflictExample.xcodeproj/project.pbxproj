@@ -56,15 +56,23 @@
 		B72032432D7EEE4F003337B9 /* ConflictExample */ = {
 			isa = PBXGroup;
 			children = (
+				B72032502D7EF1D7003337B9 /* Hue */,
 				B720323A2D7EEE4F003337B9 /* AppDelegate.swift */,
 				B720323B2D7EEE4F003337B9 /* Assets.xcassets */,
 				B720323C2D7EEE4F003337B9 /* Info.plist */,
 				B720323E2D7EEE4F003337B9 /* LaunchScreen.storyboard */,
 				B72032402D7EEE4F003337B9 /* Main.storyboard */,
 				B72032412D7EEE4F003337B9 /* SceneDelegate.swift */,
-				B720324B2D7EEEC5003337B9 /* ViewController.swift */,
 			);
 			path = ConflictExample;
+			sourceTree = "<group>";
+		};
+		B72032502D7EF1D7003337B9 /* Hue */ = {
+			isa = PBXGroup;
+			children = (
+				B720324B2D7EEEC5003337B9 /* ViewController.swift */,
+			);
+			path = Hue;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
